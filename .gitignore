@@ -6,6 +6,9 @@
 *.csv
 *.xlsx
 
+# Файлы состояния парсера
+parser_state_*.json
+
 # Python
 __pycache__/
 *.py[cod]
